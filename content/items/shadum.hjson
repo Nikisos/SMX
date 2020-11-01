@@ -1,0 +1,13 @@
+name: Shadum Shard
+color: a83cd6
+
+research: {
+    parent:titanium
+    requirements:
+    [
+        {item: graphite, amount: 1000},
+        {item: silicon, amount: 1500},
+        {item: lead, amount: 2000},
+        {item: titanium, amount: 750}
+    ]
+}
