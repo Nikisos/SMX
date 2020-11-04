@@ -1,0 +1,13 @@
+name: Shadum Bar
+color: 8b73c7
+
+research: {
+    parent:shadow-shard
+    requirements:
+    [
+        {item: shadow-shard, amount: 3450},
+        {item: copper, amount: 1200},
+        {item: lead, amount: 1850},
+        {item: titanium, amount: 1248}
+    ]
+}
