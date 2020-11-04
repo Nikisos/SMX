@@ -32,3 +32,7 @@ Mini Drill added
 Shadum (item) added
 shadum press added
 Sprites uploaded
+
+The Blocks don't work, I have no idea why,
+
+------------------
