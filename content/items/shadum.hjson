@@ -1,8 +1,7 @@
-name: Shadum Bar
 color: 8b73c7
 
 research: {
-    parent:shadow-shard
+    parent: shadow-shard
     requirements:
     [
         {item: shadow-shard, amount: 3450},
