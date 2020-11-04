@@ -32,4 +32,4 @@ updateEffect: pulverizeSmall
 drillEffect: mineSmall
 
 category: production
-research: shad-corefrag
+research: core-shadfrag
