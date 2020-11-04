@@ -22,10 +22,10 @@ consumes: {
     ]
   }
 }
-outputItem: shadum-bar/1
+outputItem: shadum/1
 
 craftTime: 100
 craftEffect: pulverizeSmall
 
 category: crafting
-research: shad-corefrag
+research: core-shadfrag
