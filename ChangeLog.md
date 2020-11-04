@@ -2,8 +2,8 @@ Change Log for ShadowMod V2
 
 data format:
 
-MM/DD/YYYY \n
-version: 2.x.x. /n
+MM/DD/YYYY
+version: 2.x.x.
 changes.
 
 -----------------
