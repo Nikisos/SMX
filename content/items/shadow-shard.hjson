@@ -2,7 +2,7 @@ name: Shadum Shard
 color: a83cd6
 
 research: {
-    parent:titanium
+    research: shad-corefrag
     requirements:
     [
         {item: graphite, amount: 1000},
