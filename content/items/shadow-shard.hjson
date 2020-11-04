@@ -2,6 +2,7 @@ color: a83cd6
 
 research: {
     research: shad-corefrag
+    parent: graphite
     requirements:
     [
         {item: copper, amount: 1500},
