@@ -19,5 +19,5 @@ buildVisibility: shown
 category: effect
 research: core-shard
 
-unitType: mega
+unitType: alpha
 unitCapModifier: 10
