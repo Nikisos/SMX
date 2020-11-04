@@ -4,7 +4,6 @@ research: {
     parent: shad-corefrag
     requirements:
     [
-        {item: graphite, amount: 1000},
         {item: copper, amount: 1500},
         {item: lead, amount: 2000},
         {item: titanium, amount: 500}
