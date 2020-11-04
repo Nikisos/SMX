@@ -1,7 +1,7 @@
 color: a83cd6
 
 research: {
-    research: shad-corefrag
+    research: core-shad-frag
     parent: graphite
     requirements:
     [
