@@ -1,0 +1,23 @@
+type: CoreBlock
+
+size: 3
+health: 2000
+itemCapacity: 5000
+
+requirements: [
+    copper/1640
+    lead/580
+    titanium/100
+]
+
+resupplyRate: 10
+resupplyRange: 80
+ammoAmount: 7
+
+buildPlaceability: always
+buildVisibility: shown
+category: effect
+research: core-shard
+
+unitType: mega
+unitCapModifier: 10
