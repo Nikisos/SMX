@@ -1,7 +1,7 @@
 color: a83cd6
 
 research: {
-    parent: shad-corefrag
+    research: shad-corefrag
     requirements:
     [
         {item: copper, amount: 1500},
