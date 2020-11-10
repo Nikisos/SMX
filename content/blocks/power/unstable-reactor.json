@@ -1,0 +1,8 @@
+{
+"category": "power",
+"name": "Shadum Unstable Reactor",
+"description": "A highly unstable reactor. It has a 1 in 10 chance of exploding. Generates bunches of power.",
+"size": "3",
+"buildVisibility": "shown",
+"consumes": { "items": { "items": [ "shadum/10" ] } }
+}
