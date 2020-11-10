@@ -43,4 +43,6 @@ version: 2.0.1
 bundle.properties added.
 realized how to fix all the blocks:
 Guys, never forget to put in `content/blocks/production`
+New contributors: FlinTyX and Pietro303HD
 
+----------------------
