@@ -1,0 +1,35 @@
+type: drill
+
+size: 1
+health: 70
+hasItems: true
+hasLiquids: true
+hasPower: true
+itemCapacity: 10
+liquidCapacity: 10
+
+requirements: [
+    shadow-shard/5
+    copper/2
+]
+consumes: {
+    liquid: {
+        liquid: water
+        amount: 0.025
+        booster: true
+        optional: true
+    }
+}
+
+drawMineItem: true
+rotateSpeed: 1
+liquidBoostIntensity: 2.0
+drawRim: false
+heatColor: ed7358
+drillTime: 60
+tier: 2
+updateEffect: pulverizeSmall
+drillEffect: mineSmall
+
+category: production
+research: shad-corefrag
