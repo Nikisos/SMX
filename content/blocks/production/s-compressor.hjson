@@ -1,0 +1,36 @@
+type: genericCrafter
+name: "Shadum Compressor"
+health: 200
+size: 2
+
+hasItems: true
+hasLiquids: true
+hasPower: true
+itemCapacity: 15
+
+requirements: [
+  shadum/75
+  lead/50
+  graphite/40
+  titanium/40
+]
+
+consumes: {
+  power: 1.4
+  items: {
+    items: [
+      shadum/10
+    ]
+  }
+    liquid: {
+      liquid: water
+      amount: 0.2
+  }
+}
+outputItem: comp-shadum/1
+
+craftTime: 105
+craftEffect: pulverizeSmall
+
+category: crafting
+research: shadum-press
