@@ -10,7 +10,7 @@ changes.
 
 11/01/2020
 
-version: nothing 
+version: nothing.
 ShadowModX created.
 mod.hjson added.
 
@@ -27,12 +27,17 @@ Shadow Shard (Item) added.
 
 version: 2.0.1.
 ChangeLog.md added.
-Basic Shade Core added
-Mini Drill added
-Shadum (item) added
-shadum press added
-Sprites uploaded
+Basic Shade Core added.
+Mini Drill added.
+Shadum (item) added.
+shadum press added.
+Sprites uploaded.
 
 The Blocks don't work, I have no idea why,
 
 ------------------
+
+11/10/2020
+
+version: 2.0.1
+bundle.properties added.
