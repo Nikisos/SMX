@@ -29,7 +29,7 @@ heatColor: ed7358
 drillTime: 60
 tier: 2
 updateEffect: pulverizeSmall
-drillEffect: mineSmall
+drillEffect: pulverizeSmall
 
 category: production
 research: shad-corefrag
