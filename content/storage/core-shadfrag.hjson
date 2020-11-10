@@ -15,7 +15,7 @@ resupplyRange: 80
 ammoAmount: 7
 
 buildPlaceability: always
-buildVisibility: shown
+buildVisibility: show
 category: effect
 research: core-shard
 
