@@ -1,0 +1,31 @@
+type: genericCrafter
+name: "Shadum Press"
+health: 140
+size: 2
+
+hasItems: true
+hasPower: true
+itemCapacity: 10
+
+requirements: [
+  copper/125
+  graphite/50
+  titanium/40
+]
+
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      shadow-shard/3
+      titanium/1
+    ]
+  }
+}
+outputItem: shadum/1
+
+craftTime: 100
+craftEffect: pulverizeSmall
+
+category: crafting
+research: core-shadfrag
