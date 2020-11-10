@@ -23,10 +23,10 @@ consumes: {
 
 drawMineItem: true
 rotateSpeed: 1
-liquidBoostIntensity: 2.0
+liquidBoostIntensity: 1.6
 drawRim: false
 heatColor: ed7358
-drillTime: 60
+drillTime: 240
 tier: 2
 updateEffect: pulverizeSmall
 drillEffect: pulverizeSmall
