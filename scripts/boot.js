@@ -5,7 +5,7 @@ Events.on(ClientLoadEvent, b => {
         "No",
         "Yes",
         ()=>{
-            core.app.exit();
+            
         )},
         ()=>{
             
