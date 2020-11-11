@@ -1,4 +1,5 @@
 Change Log for ShadowMod V2
+names may be wrong
 
 data format:
 
@@ -44,9 +45,11 @@ bundle.properties added.
 realized how to fix all the blocks:
 Guys, never forget to put in `content/blocks/production`
 New contributors: FlinTyX and Pietro303HD
+Shadum Payload Conveyor
 
 ----------------------
 
 11/11/2020
 
 version:2.0.1
+Unstable reactor (resprited)
