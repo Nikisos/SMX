@@ -46,6 +46,7 @@ realized how to fix all the blocks:
 Guys, never forget to put in `content/blocks/production`
 New contributors: FlinTyX and Pietro303HD
 Shadum Payload Conveyor
+Shadum Compressor
 Shadum Unstable Reactor
 
 ----------------------
@@ -54,3 +55,4 @@ Shadum Unstable Reactor
 
 version:2.0.1
 Unstable reactor (resprited)
+Shadow Shard Large Wall
