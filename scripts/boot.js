@@ -10,4 +10,3 @@ Events.on(ClientLoadEvent, b => {
         ()=>{
             print("you did the obligatory");
         });
-});
