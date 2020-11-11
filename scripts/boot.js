@@ -8,6 +8,6 @@ Events.on(ClientLoadEvent, b => {
             print("do not the obligatory");
         )},
         ()=>{
-            print"you did the obligatory");
+            print("you did the obligatory");
         });
 });
