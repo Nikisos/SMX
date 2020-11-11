@@ -46,3 +46,7 @@ Guys, never forget to put in `content/blocks/production`
 New contributors: FlinTyX and Pietro303HD
 
 ----------------------
+
+11/11/2020
+
+version:2.0.1
