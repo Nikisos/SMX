@@ -1,0 +1,16 @@
+type: payloadConveyor
+name: Shadum Mass Conveyor
+
+moveTime: 185
+size: 4
+requirements: [
+        shadum/10
+        titanium/10
+        lead/10
+]
+
+canOverdrive: true
+canTier3: true
+
+category: distribution
+research: payload-conveyor
