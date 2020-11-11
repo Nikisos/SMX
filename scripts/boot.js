@@ -5,9 +5,9 @@ Events.on(ClientLoadEvent, b => {
         "No",
         "Yes",
         ()=>{
-            
+            //obligatory2
         )},
         ()=>{
-            
+            //obligatory3
         });
 });
