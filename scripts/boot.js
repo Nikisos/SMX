@@ -1,12 +1,13 @@
-//obligatory commentttt
+// obligatory comment here
 Events.on(ClientLoadEvent, b => {
     Vars.ui.showCustomConfirm(
         "ShadowMod","shadowmod is the best",
         "No",
         "Yes",
         ()=>{
-            print("do not the obligatory");
+            print("do the obligatory"
         )},
         ()=>{
-            print("you did the obligatory");
-        });
+            print("do not the obligatory"
+        )};
+});
