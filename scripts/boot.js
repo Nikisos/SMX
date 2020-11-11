@@ -5,9 +5,9 @@ Events.on(ClientLoadEvent, b => {
         "No",
         "Yes",
         ()=>{
-            //obligatory2
+            print("do not the obligatory");
         )},
         ()=>{
-            //obligatory3
+            print"you did the obligatory");
         });
 });
