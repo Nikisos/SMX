@@ -9,5 +9,5 @@ Events.on(ClientLoadEvent, () => {
         },
         ()=>{
             print("do not the obligatory");
-        }
+        },
 });
