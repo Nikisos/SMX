@@ -1,0 +1,12 @@
+type: wall
+name: Shadum Shard Large Wall
+
+health: 1400
+
+requirements: [
+  shadow-shard/30
+]
+
+size: 2
+solid: true
+category: defense
