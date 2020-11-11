@@ -1,5 +1,5 @@
 // obligatory comment here
-Events.on(ClientLoadEvent, b => {
+Events.on(ClientLoadEvent, () => {
     Vars.ui.showCustomConfirm(
         "ShadowMod","shadowmod is the best",
         "No",
