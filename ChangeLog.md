@@ -46,6 +46,7 @@ realized how to fix all the blocks:
 Guys, never forget to put in `content/blocks/production`
 New contributors: FlinTyX and Pietro303HD
 Shadum Payload Conveyor
+Shadum Unstable Reactor
 
 ----------------------
 
