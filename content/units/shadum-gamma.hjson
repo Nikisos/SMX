@@ -13,7 +13,7 @@ hitSize: 6
 engineSize: 3
 payloadCapacity: 1
 buildSpeed: 1
-destructibleWreck: false
+destructibleWreck: true
 
 weapons: [
     {
@@ -21,7 +21,7 @@ weapons: [
         mirror: true
         top: true
         shake: 0
-        shootY: 0
+        shootY: 1
         x: 5
         y: -3
 
@@ -36,9 +36,9 @@ weapons: [
         bullet: {
             type: BasicBulletType
             damage: 10
-            speed: 50
-            width: 1
-            height: 5
+            speed: 5
+            width: 2
+            height: 7
             frontColor: bb55f2
             backColor: 8d23c2
             inaccuracy: 0
@@ -70,9 +70,9 @@ weapons: [
         bullet: {
             type: BasicBulletType
             damage: 10
-            speed: 50
-            width: 1
-            height: 5
+            speed: 5
+            width: 3
+            height: 8
             frontColor: bb55f2
             backColor: 8d23c2
             inaccuracy: 0
