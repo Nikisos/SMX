@@ -2,7 +2,7 @@ type: payloadConveyor
 name: Shadum Mass Conveyor
 
 size: 4
-moveTime: 240
+moveTime: 135
 requirements: [
         shadum/10
         titanium/10
