@@ -22,9 +22,9 @@ weapons: [
         mirror: true
         top: true
         shake: 0
-        shootY: 5
+        shootY: 50
         x: 5
-        y: 1
+        y: -3
 
         firstShotDelay: 30
 
@@ -44,9 +44,9 @@ weapons: [
         mirror: true
         top: true
         shake: 0
-        shootY: 5
+        shootY: 50
         x: 4
-        y: 5
+        y: 1
 
         firstShotDelay: 0
 
