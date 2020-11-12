@@ -36,7 +36,7 @@ weapons: [
         bullet: {
             type: BasicBulletType
             damage: 10
-            speed: 5
+            speed: 50
             width: 1
             height: 5
             frontColor: bb55f2
@@ -70,7 +70,7 @@ weapons: [
         bullet: {
             type: BasicBulletType
             damage: 10
-            speed: 5
+            speed: 50
             width: 1
             height: 5
             frontColor: bb55f2
