@@ -10,7 +10,7 @@ lowAltitude: true
 flying: true
 engineOffset: 4
 rotateShooting: true
-hitSize: 8
+hitSize: 6
 engineSize: 3
 payloadCapacity: 1
 buildSpeed: 1
@@ -22,7 +22,7 @@ weapons: [
         mirror: true
         top: true
         shake: 0
-        shootY: 1
+        shootY: 0
         x: 5
         y: -3
 
@@ -44,7 +44,7 @@ weapons: [
         mirror: true
         top: true
         shake: 0
-        shootY: 1
+        shootY: 0
         x: 4
         y: 1
 
