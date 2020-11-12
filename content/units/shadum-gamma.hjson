@@ -10,7 +10,7 @@ lowAltitude: true
 flying: true
 engineOffset: 4
 rotateShooting: true
-hitSize: 48
+hitSize: 8
 engineSize: 3
 payloadCapacity: 1
 buildSpeed: 1
