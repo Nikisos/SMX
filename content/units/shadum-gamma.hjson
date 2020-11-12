@@ -46,9 +46,6 @@ weapons: [
             splashDamageRadius: 8
             splashDamage: 1
          }
-
-        shootStatus: slow
-        shootStatusDuration: 60
     },
     {
         name: shadum-pew
@@ -69,7 +66,7 @@ weapons: [
 
         bullet: {
             type: BasicBulletType
-            damage: 10
+            damage: 11
             speed: 5
             width: 3
             height: 8
@@ -77,7 +74,7 @@ weapons: [
             backColor: 8d23c2
             inaccuracy: 0
             lifetime: 60
-            splashDamageRadius: 8
+            splashDamageRadius: 12
             splashDamage: 1
          }
 
