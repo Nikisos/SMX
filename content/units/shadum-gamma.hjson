@@ -9,7 +9,7 @@ drag: 0.045
 lowAltitude: true
 flying: true
 engineOffset: 4
-rotateShooting: false
+rotateShooting: true
 hitSize: 48
 engineSize: 1
 payloadCapacity: 1
@@ -22,7 +22,7 @@ weapons: [
         mirror: true
         top: true
         shake: 0
-        shootY: 50
+        shootY: 1
         x: 5
         y: -3
 
@@ -44,7 +44,7 @@ weapons: [
         mirror: true
         top: true
         shake: 0
-        shootY: 50
+        shootY: 1
         x: 4
         y: 1
 
