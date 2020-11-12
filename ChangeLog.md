@@ -56,3 +56,10 @@ Shadum Unstable Reactor
 version:2.0.1
 Unstable reactor (resprited)
 shadow shard large wall added.
+
+----------------
+
+11/12/2020
+
+version: 2.0.1
+Inistar (unit)added
