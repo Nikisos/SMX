@@ -15,3 +15,50 @@ engineSize: 1
 payloadCapacity: 1
 buildSpeed: 1
 destructibleWreck: false
+
+weapons: [
+    {
+        name: shadum-pew
+        mirror: true
+        top: true
+        shake: 0
+        shootY: 5
+        x: 5
+        y: 1
+
+        firstShotDelay: 30
+
+        reload: 60
+        recoil: 1
+        shootSound: pew
+        continuous: true
+        cooldownTime: 0
+
+        bullet: standardCopper
+
+        shootStatus: slow
+        shootStatusDuration: 60
+    },
+    {
+        name: shadum-pew
+        mirror: true
+        top: true
+        shake: 0
+        shootY: 5
+        x: 4
+        y: 5
+
+        firstShotDelay: 0
+
+        reload: 60
+        recoil: 1
+        shootSound: pew
+        continuous: true
+        cooldownTime: 0
+
+        bullet: standardCopper
+
+        shootStatus: slow
+        shootStatusDuration: 60
+    }
+]
