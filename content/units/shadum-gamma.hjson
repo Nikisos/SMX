@@ -1,9 +1,9 @@
 type: BuilderMinerPayloadUnit
 name: Shadum Gamma
 mineTier: 2
-speed: 3
-health: 85
-armor: 1
+speed: 4
+health: 160
+armor: 2
 accel: 0.05
 drag: 0.045
 lowAltitude: true
@@ -11,7 +11,7 @@ flying: true
 engineOffset: 4
 rotateShooting: true
 hitSize: 48
-engineSize: 1
+engineSize: 3
 payloadCapacity: 1
 buildSpeed: 1
 destructibleWreck: false
