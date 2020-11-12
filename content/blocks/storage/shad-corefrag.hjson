@@ -19,5 +19,5 @@ buildVisibility: shown
 category: effect
 research: core-shard
 
-unitType: shadum-gamma
+unitType: alpha
 unitCapModifier: 10
