@@ -8,6 +8,7 @@ reactor.configurable = true;
 make a button
 icon.warning
 */
+
 reactor.buildType = () => extendContent(PowerGenerator.GeneratorBuild, reactor, {
     buildConfiguration(table){
         table.button(Icon.warning, () => {
@@ -30,4 +31,11 @@ reactor.buildType = () => extendContent(PowerGenerator.GeneratorBuild, reactor, 
         this.powerOutput = 0
             	return powerOutput;
             },
+
+    this.setStats(){
+    this.super$setStats();
+    
+    this.stats.remove(Stat.generationType);
+    this.stats.add(Stat.generationType, "10k/click");
+  },
   });
