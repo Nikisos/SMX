@@ -32,7 +32,7 @@ reactor.buildType = () => extendContent(PowerGenerator.GeneratorBuild, reactor, 
             	return powerOutput;
             },
 
-    this.setStats(){
+    setStats(){
     this.super$setStats();
     
     this.stats.remove(Stat.generationType);
