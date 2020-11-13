@@ -36,6 +36,6 @@ reactor.buildType = () => extendContent(PowerGenerator.GeneratorBuild, reactor, 
     this.super$setStats();
     
     this.stats.remove(Stat.generationType);
-    this.stats.add(Stat.generationType, "10k/click");
+    this.stats.add(Stat.generationType, "10k/click", StatUnit.powerSecond);
   },
   });
