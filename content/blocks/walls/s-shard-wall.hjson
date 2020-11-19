@@ -1,0 +1,13 @@
+type: wall
+name: Shadum Shard Wall
+
+health: 605
+
+requirments: [
+  shadow-shard/20
+]
+
+size: 2
+solid: true
+research: titanium-wall
+category: defense
