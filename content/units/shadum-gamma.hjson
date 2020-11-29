@@ -1,4 +1,4 @@
-type: FlyingUnit
+type: Flying
 mineTier: 2
 speed: 4
 health: 160
