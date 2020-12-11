@@ -1,12 +1,7 @@
 color: 5c5e9e
-
-research: {
-    parent: shadum
-    requirements:
-    [
-        {item: shadow-shard, amount: 2435},
-        {item: lead, amount: 1050},
-        {item: shadum, amount: 1250},
-        {item: titanium, amount: 1248}
-    ]
-}
+requirements: [
+  copper/2000
+  titanium/2000
+  shadow-shard/1000
+  ]
+  research: start
