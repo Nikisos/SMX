@@ -9,5 +9,10 @@ requirments: [
 
 size: 1
 solid: true
-research: titanium-wall
+research: {
+  parent: start
+  requirements: [
+    shadow-shard/85
+  ]
+}
 category: defense
