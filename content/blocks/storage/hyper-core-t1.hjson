@@ -1,5 +1,5 @@
 type: CoreBlock
-name: [yellow]Hyper Core[] Tier 1
+name: Hyper Core Tier 1
 size: 3
 health: 2000
 itemCapacity: 5000
@@ -17,7 +17,7 @@ ammoAmount: 7
 buildPlaceability: always
 buildVisibility: shown
 category: effect
-research: core-shard
+research: start
 
 unitType: alpha
 unitCapModifier: 10
