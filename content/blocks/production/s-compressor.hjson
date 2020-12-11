@@ -27,10 +27,17 @@ consumes: {
       amount: 0.2
   }
 }
-outputItem: comp-shadum/1
+outputItem: comp-shadum/1/2
 
 craftTime: 105
 craftEffect: pulverizeSmall
 
 category: crafting
-research: shadum-press
+research: {
+  research: shadum-press
+  requirements: [
+    shadum/2355
+    lead/2340
+    titanium/1450
+  ]
+}
