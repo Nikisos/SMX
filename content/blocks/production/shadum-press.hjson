@@ -28,4 +28,12 @@ craftTime: 100
 craftEffect: pulverizeSmall
 
 category: crafting
-research: shad-corefrag
+research: {
+  research: start
+  parent: core-shard
+  requirements: [
+    copper/2150
+    graphite/500
+    titanium/780
+  ]
+}
