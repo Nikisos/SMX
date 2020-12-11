@@ -1,7 +1,4 @@
 buildVisibility: debugOnly
-name: [gray]Shadow Mod[][purple] X
-description: Star your journey...
-solid: false
-research: {
-  parent: core-shard
-}
+name: Shadow Mod X
+description: Start your journey...
+research: core-shard
