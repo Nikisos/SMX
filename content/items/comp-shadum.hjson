@@ -1,6 +1,7 @@
 color: 5c5e9e
 research: {
-  parent: shadum
+  research: shadum
+  parent: shadow-shard
   requirements: [
     titanium/1000
     shadum/5000
