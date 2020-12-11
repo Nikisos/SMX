@@ -9,5 +9,8 @@ requirements: [
 
 size: 2
 solid: true
-research: s-shard-wall
+research: {
+  parent: s-shard-wall
+  requirements: [
+    shadow-shard/200
 category: defense
