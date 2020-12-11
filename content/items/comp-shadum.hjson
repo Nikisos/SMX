@@ -1,7 +1,8 @@
 color: 5c5e9e
-requirements: [
-  copper/2000
-  titanium/2000
-  shadow-shard/1000
+research: {
+  parent: start
+  requirements: [
+    titanium/1000
+    shadum/5000
   ]
-  research: start
+}
