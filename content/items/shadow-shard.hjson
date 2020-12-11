@@ -1,12 +1,9 @@
 color: a83cd6
-
 research: {
-    research: core-shadfrag
+    research: start
     parent: graphite
-    requirements:
-    [
-        {item: copper, amount: 1500},
-        {item: lead, amount: 2000},
-        {item: titanium, amount: 500}
-    ]
+    requirements: [
+    copper/2000
+    graphite/2500
+  ]
 }
