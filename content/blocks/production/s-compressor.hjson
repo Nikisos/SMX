@@ -34,7 +34,7 @@ craftEffect: pulverizeSmall
 
 category: crafting
 research: {
-  research: shadum-press
+  parent: shadum-press
   requirements: [
     shadum/2355
     lead/2340
