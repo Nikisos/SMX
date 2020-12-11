@@ -13,4 +13,6 @@ research: {
   parent: s-shard-wall
   requirements: [
     shadow-shard/200
+  ]
+}
 category: defense
