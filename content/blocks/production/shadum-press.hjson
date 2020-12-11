@@ -22,7 +22,7 @@ consumes: {
     ]
   }
 }
-outputItem: shadum/1
+outputItem: shadum/1/3
 
 craftTime: 100
 craftEffect: pulverizeSmall
