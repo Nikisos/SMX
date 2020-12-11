@@ -1,12 +1,11 @@
 color: 8b73c7
-
+name: Shadum
+description: One of the basic materials.
 research: {
-    parent: shadow-shard
-    requirements:
-    [
-        {item: shadow-shard, amount: 3450},
-        {item: copper, amount: 1200},
-        {item: lead, amount: 1850},
-        {item: titanium, amount: 1248}
-    ]
+    research: shadow-shard
+    requirements: [
+      shadow-shard/1785
+      graphite/565
+      titanium/600
+  ]
 }
