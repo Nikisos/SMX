@@ -29,8 +29,7 @@ craftEffect: pulverizeSmall
 
 category: crafting
 research: {
-  research: start
-  parent: core-shard
+  parent: start
   requirements: [
     copper/2150
     graphite/500
