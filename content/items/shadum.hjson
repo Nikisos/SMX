@@ -2,7 +2,7 @@ color: 8b73c7
 name: Shadum
 description: One of the basic materials.
 research: {
-    research: shadow-shard
+    parent: shadow-shard
     requirements: [
       shadow-shard/1785
       graphite/565
