@@ -1,5 +1,5 @@
 type: itemTurret
-name: Ash
+name: Sur
 description: A basic turret.
 
 hasPower: false
