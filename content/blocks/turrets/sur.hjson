@@ -1,0 +1,83 @@
+type: itemTurret
+name: Ash
+description: A basic turret.
+
+hasPower: false
+hasItems: true
+hasLiquids: true
+
+size: 1
+health: 1300
+itemCapacity: 8
+innacuracy: 0.3
+range: 115
+reloadTime: 20
+shots: 1
+
+ammoTypes: {
+  shadow-shard: {
+    type: BasicBulletType
+    lifeTime: 50
+    speed: 3
+    ammoMultiplier: 2
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    damage: 26
+    width: 8
+    heigth: 12
+    sprite: shell
+    fragBullets: 6
+    splashDamageRadius: 18
+    splashDamage: 15
+    backColor: 8b73c7
+    frontColor: ad91f2
+    fragBullet: {
+      type: BasicBulletType
+      width: 5
+      heigth: 11
+      lifetime: 17
+      speed: 1.9
+      damage: 2
+      sprite: shell
+    }
+  }
+  shadum: {
+    type: BasicBulletType
+    lifetime: 55
+    speed: 2.8
+    width: 8
+    heigth: 11
+    damage: 30
+    sprite: shell
+    ammoMultiplier: 1.8
+    shootEffect: shootSmall
+    shootSmoke: shootSmallSmoke
+    backColor: ad91f2
+    frontColor: 8b73c7
+  }
+}
+
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.03
+    optional: true
+    booster: true
+  }
+}
+
+requirements: [
+  copper/20
+  lead/10
+]
+
+category: turret
+research: {
+  parent: start
+  requirements: [
+    shadow-shard/168
+    copper/345
+    lead/100
+  ]
+}
+    
