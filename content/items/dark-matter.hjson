@@ -1,0 +1,10 @@
+color: 101010
+name: Dark Matter
+description: muda ai galera. Eu fiz só para NN bufar o jogo pelo extractor
+research: {
+    parent: shadow-shard
+    requirements: [
+      copper/100
+      lead/200
+  ]
+}
