@@ -17,8 +17,8 @@ consumes: {
 }
 
 results:  [
-  lead/1
-  copper/2
+  shadow-shard/30
+  dark-matter/1
   ]
   buildCostMultiplier: 0.8
 requirements: [
