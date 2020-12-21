@@ -26,6 +26,6 @@ requirements: [
   lead/145
 ]
 category: production
-research: 
+research: start
 idleSound: respawning
 idleSoundVolume: 0.2
