@@ -1,0 +1,31 @@
+type: Separator
+name: Shard Extractor 
+description: have a little bit of a chance to extract dark matter.
+size: 2
+hasPower: true
+hasItems: true
+hasLiquids: true
+craftTime: 60
+craftEffect: smeltsmoke
+consumes: {
+  liquid:{
+  liquid: water
+  amount: 0.1
+  optional: true
+  booster: true
+  }
+}
+
+results:  [
+  lead/1
+  copper/2
+  ]
+  buildCostMultiplier: 0.8
+requirements: [
+  copper/25
+  lead/145
+]
+category: production
+research: 
+idleSound: respawning
+idleSoundVolume: 0.2
