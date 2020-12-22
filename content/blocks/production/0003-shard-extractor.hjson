@@ -1,6 +1,6 @@
 type: Separator
 name: Shard Extractor 
-description: have a little bit of a chance to extract dark matter.
+description: the main shadow mod heart. Extracts shadow shard! Have a little bit of a chance to extract dark matter.
 size: 2
 hasPower: true
 hasItems: true
@@ -17,7 +17,7 @@ consumes: {
 }
 
 results:  [
-  shadow-shard/30
+  shadow-shard/1000
   dark-matter/1
   ]
   buildCostMultiplier: 0.8
