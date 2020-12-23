@@ -2,7 +2,7 @@ color: 5c5e9e
 name: Compressed Shadum
 research: {
   research: shadum
-  parent: shadum
+  parent: titanium
   requirements: [
     titanium/2365
     shadum/5232
