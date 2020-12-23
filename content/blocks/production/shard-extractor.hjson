@@ -1,16 +1,16 @@
 type: Separator
 name: Shard Extractor 
-description: the main shadow mod heart. Extracts shadow shard! Have a little bit of a chance to extract dark matter.
-size: 2
+description: The Tier 2 of the Shadow Colector. Extracts shadow shard. Have a very small chance of extract Dark Matter.
+size: 3
 hasPower: true
 hasItems: true
 hasLiquids: true
-craftTime: 60
+craftTime: 65
 craftEffect: smeltsmoke
 consumes: {
   liquid:{
   liquid: water
-  amount: 0.1
+  amount: 0.2
   optional: true
   booster: true
   }
@@ -22,10 +22,20 @@ results:  [
   ]
   buildCostMultiplier: 0.8
 requirements: [
-  copper/25
-  lead/145
+  silicon/40
+  lead/215
+  copper/202
 ]
 category: production
-research: start
+research: {
+  research: start
+  parent: shadum
+  reuirements: [
+    shadum/435
+    silicon/470
+    copper/2300
+    lead/1642
+  ]
+}
 idleSound: respawning
 idleSoundVolume: 0.2
