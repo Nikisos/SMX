@@ -1,7 +1,8 @@
 color: 5c5e9e
+name: Compressed Shadum
 research: {
   research: shadum
-  parent: shadow-shard
+  parent: shadum
   requirements: [
     titanium/1000
     shadum/5000
