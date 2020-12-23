@@ -22,14 +22,15 @@ consumes: {
     ]
   }
 }
-outputItem: shadum/1/3
+outputItem: shadum/2
 
-craftTime: 100
+craftTime: 92
 craftEffect: pulverizeSmall
 
 category: crafting
 research: {
-  parent: start
+  parent: shadow-shard
+  research: start
   requirements: [
     copper/2150
     graphite/500
