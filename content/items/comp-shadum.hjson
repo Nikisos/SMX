@@ -4,7 +4,7 @@ research: {
   research: shadum
   parent: shadum
   requirements: [
-    titanium/1000
-    shadum/5000
+    titanium/2365
+    shadum/5232
   ]
 }
