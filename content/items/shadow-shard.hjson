@@ -1,4 +1,5 @@
 color: a83cd6
+name: Shadow Shard
 research: {
     research: start
     parent: graphite
