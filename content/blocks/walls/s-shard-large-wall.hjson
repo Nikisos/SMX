@@ -10,9 +10,10 @@ requirements: [
 size: 2
 solid: true
 research: {
-  parent: s-shard-wall
+  research: s-shard-wall
+  parent: shadow-shard
   requirements: [
-    shadow-shard/200
+    shadow-shard/207
   ]
 }
 category: defense
