@@ -9,7 +9,7 @@ hasLiquids: true
 size: 1
 health: 1300
 itemCapacity: 8
-innacuracy: 0.3
+innacuracy: 0.6
 range: 115
 reloadTime: 20
 shots: 1
@@ -22,9 +22,9 @@ ammoTypes: {
     ammoMultiplier: 2
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    damage: 26
-    width: 8
-    heigth: 12
+    damage: 15
+    width: 6
+    heigth: 10
     sprite: shell
     fragBullets: 6
     splashDamageRadius: 18
@@ -33,11 +33,11 @@ ammoTypes: {
     frontColor: ad91f2
     fragBullet: {
       type: BasicBulletType
-      width: 5
-      heigth: 11
+      width: 4
+      heigth: 7
       lifetime: 17
       speed: 1.9
-      damage: 2
+      damage: 1.6
       sprite: shell
     }
   }
@@ -45,9 +45,9 @@ ammoTypes: {
     type: BasicBulletType
     lifetime: 55
     speed: 2.8
-    width: 8
-    heigth: 11
-    damage: 30
+    width: 7
+    heigth: 10
+    damage: 16
     sprite: shell
     ammoMultiplier: 1.8
     shootEffect: shootSmall
@@ -60,24 +60,26 @@ ammoTypes: {
 consumes: {
   liquid: {
     liquid: water
-    amount: 0.03
+    amount: 0.01
     optional: true
     booster: true
   }
 }
 
 requirements: [
-  copper/20
+  shadow-shard/15
+  copper/12
   lead/10
 ]
 
 category: turret
 research: {
-  parent: start
+  research: start
+  parent: shadow-shard
   requirements: [
     shadow-shard/168
     copper/345
-    lead/100
+    lead/120
   ]
 }
     
