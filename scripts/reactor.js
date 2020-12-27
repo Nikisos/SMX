@@ -4,7 +4,10 @@
 */
 const reactor = extendContent(PowerGenerator, "unstable-reactor", {});
 reactor.configurable = true;
-heatRegion = Core.atlas.find("shadowmodx-unstable-reactor-heat")
+load(){
+this.super$load();
+this.heatRegion = Core.atlas.find(this.name + "-heat")
+}
 /* this = reactor block in the map
 make a button
 icon.warning
