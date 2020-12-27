@@ -4,7 +4,7 @@
 */
 const reactor = extendContent(PowerGenerator, "unstable-reactor", {});
 reactor.configurable = true;
-reactor.load(){
+reactor.load = () => {
 this.super$load();
 this.heatRegion = Core.atlas.find(this.name + "-heat")
 }
