@@ -1,6 +1,6 @@
 color: 101010
 name: Dark Matter
-description: muda ai galera. Eu fiz só para NN bufar o jogo pelo extractor
+description: can be obtained by the shadum extractor. There is a very rare chance to obtain it.\nSpriter: Solokil
 research: {
     parent: shadow-shard
     requirements: [
