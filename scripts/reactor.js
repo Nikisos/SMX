@@ -15,7 +15,7 @@ icon.warning
 
 reactor.buildType = () => extendContent(PowerGenerator.GeneratorBuild, reactor, {
     buildConfiguration(table){
-        table.button(Icon.warning, () => {
+        table.button(Icon.icon, () => {
             print("icon name [accent]info[]");
             if (!this.cons.valid()) return;
             this.cons.trigger();
